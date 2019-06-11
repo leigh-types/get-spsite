@@ -22,7 +22,7 @@ Get up to speed with these resources.
 ## Authorities (not definitive)
 
 *   **[SharePoint Community Blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)**
-*   MVP    [Benjamin Niaulin](https://bniaulin.wordpress.com/) and on [ShareGate blog](https://en.share-gate.com/blog)
+*   MVP    [Benjamin Niaulin](https://bniaulin.wordpress.com/) and on [ShareGate blog](https://sharegate.com/blog)
 *   MS VP  [Bill Baer](http://blogs.technet.com/b/wbaer/)
 *   MVP    [Gary Lapointe](http://blog.falchionconsulting.com) and on [ITUnity](http://www.itunity.com/users/gary-lapointe)
 *   **MS CVP [Jeff Teper](https://www.microsoft.com/en-us/microsoft-365/blog/author/jeff-teper/)**
@@ -65,7 +65,7 @@ Note: vendor listings are alphabetical.
 *   [Dell Migration Suite](https://www.dell.com/learn/us/en/04/shared-content~data-sheets~en/documents~dsw-migrationsuite4sp-us-ks.pdf) (Large/complex enterprise migrations)
 *   [Metavis/Metalogix](http://www.metalogix.com/) (Large/complex enterprise migrations)
 *   **[Official SP Migration Tool](https://docs.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool)**
-*   [Share-Gate](http://www.share-gate.com/) (Agile migrations)
+*   [ShareGate](http://www.sharegate.com/) (Agile migrations and Office 365 governance)
 *   [Technet: Backup and Restore best Practices for SharePoint 2013](https://technet.microsoft.com/en-us/library/gg266384.aspx)
 *   [Migration Vendor List from topsharepoint.com](http://www.topsharepoint.com/content-migration-tools-for-sharepoint)
 *   [Technet: Deployment Resources for Office 365](https://technet.microsoft.com/en-us/library/hh852475.aspx?f=255&MSPPError=-2147217396)
